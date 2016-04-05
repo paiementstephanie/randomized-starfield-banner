@@ -5,7 +5,7 @@ var i = 0;
 var totalStars = 75;
 var $newStar;
 
-for (i = 0; i <totalStars; i++) {
+for (i = 0; i < totalStars; i++) {
   $newStar = $('<div>');
   $newStar.addClass('star');
 
